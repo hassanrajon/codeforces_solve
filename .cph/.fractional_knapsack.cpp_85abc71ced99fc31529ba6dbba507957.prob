@@ -1,0 +1,1 @@
+{"name":"Local: fractional_knapsack","url":"d:\\vs\\fractional_knapsack.cpp","tests":[{"id":1734501328496,"input":"3\n25 24 15\n18 15 10\n20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\fractional_knapsack.cpp","group":"local","local":true}

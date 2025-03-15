@@ -1,0 +1,1 @@
+{"name":"Local: algo","url":"d:\\vs\\row practise\\algo.cpp","tests":[{"id":1702322223768,"input":"3 4\n15 7 20 10\n21 11 30 34\n42 8 25 65","output":""},{"id":1702404527171,"input":"3 3\n3  2  4\n7  5  6\n9  8  7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\row practise\\algo.cpp","group":"local","local":true}

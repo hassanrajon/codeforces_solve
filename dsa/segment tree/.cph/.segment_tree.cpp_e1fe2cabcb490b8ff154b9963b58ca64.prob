@@ -1,0 +1,1 @@
+{"name":"Local: segment_tree","url":"d:\\vs\\dsa\\segment tree\\segment_tree.cpp","tests":[{"id":1737985918403,"input":"8 4\n1 2 3 4 5 6 7 8\n2 6 7\n2 4 5\n1 3 10\n2 0 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\dsa\\segment tree\\segment_tree.cpp","group":"local","local":true}

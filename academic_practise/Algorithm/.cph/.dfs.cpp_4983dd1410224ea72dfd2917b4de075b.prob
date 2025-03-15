@@ -1,0 +1,1 @@
+{"name":"Local: dfs","url":"d:\\vs\\academic_practise\\Algorithm\\dfs.cpp","tests":[{"id":1739948380704,"input":"6 8\nu v w x y z\nu v\nu x\nv y\nw y\nw z\nx v\ny x\nz z\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\academic_practise\\Algorithm\\dfs.cpp","group":"local","local":true}

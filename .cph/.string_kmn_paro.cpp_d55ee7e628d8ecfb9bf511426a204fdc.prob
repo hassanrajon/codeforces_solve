@@ -1,0 +1,1 @@
+{"name":"Local: string_kmn_paro","url":"d:\\vs\\string_kmn_paro.cpp","tests":[{"id":1707938878690,"input":"3\n9 3\ncsedaycse\n10 1\nparbetumio\n9 2\ncccssseee","output":""},{"id":1707939505724,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\string_kmn_paro.cpp","group":"local","local":true}

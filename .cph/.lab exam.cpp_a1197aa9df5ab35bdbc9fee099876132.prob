@@ -1,0 +1,1 @@
+{"name":"Local: lab exam","url":"d:\\vs\\lab exam.cpp","tests":[{"id":1691644736224,"input":"3\n10 20\n20 10\n10 10","output":"<\n>\n="}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\lab exam.cpp","group":"local","local":true}

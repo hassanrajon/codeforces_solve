@@ -1,0 +1,1 @@
+{"name":"Local: chengish","url":"d:\\vs\\chengish.cpp","tests":[{"id":1697089600167,"input":"7\n55 2 45 3 7 55 33","output":"2 3 7 33 45 55 55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\chengish.cpp","group":"local","local":true}

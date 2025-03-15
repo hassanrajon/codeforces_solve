@@ -1,0 +1,1 @@
+{"name":"Local: dabchur","url":"d:\\vs\\dabchur.cpp","tests":[{"id":1697090465658,"input":"5 500\n10 20 50 40 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\dabchur.cpp","group":"local","local":true}

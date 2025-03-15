@@ -1,0 +1,1 @@
+{"name":"Local: nextgreaterelement","url":"d:\\vs\\nextgreaterelement.cpp","tests":[{"id":1691046830344,"input":"6\n4 5 2 25 7 8\n3\n4 25 7","output":"5 25 25 -1 8 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\nextgreaterelement.cpp","group":"local","local":true}

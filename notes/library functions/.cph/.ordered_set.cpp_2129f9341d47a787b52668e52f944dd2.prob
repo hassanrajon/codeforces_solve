@@ -1,0 +1,1 @@
+{"name":"Local: ordered_set","url":"d:\\vs\\notes\\library functions\\ordered_set.cpp","tests":[{"id":1711204782531,"input":"10\n10 9 8 7 6 5 4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\notes\\library functions\\ordered_set.cpp","group":"local","local":true}

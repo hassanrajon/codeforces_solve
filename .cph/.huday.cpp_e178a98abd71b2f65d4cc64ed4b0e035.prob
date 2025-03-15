@@ -1,0 +1,1 @@
+{"name":"Local: huday","url":"d:\\vs\\huday.cpp","tests":[{"id":1690634656043,"input":"3\nrazon 12\nhassan 10\nrazon -10","output":"hassan"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\huday.cpp","group":"local","local":true}

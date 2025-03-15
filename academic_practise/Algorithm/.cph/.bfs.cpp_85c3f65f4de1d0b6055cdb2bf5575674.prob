@@ -1,0 +1,1 @@
+{"name":"Local: bfs","url":"d:\\vs\\academic_practise\\Algorithm\\bfs.cpp","tests":[{"id":1739945593885,"input":"8 10\ns\nv r\nr s\ns w\nw x\nw t\nx y\nx t\nx u\nt u\nu y\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\academic_practise\\Algorithm\\bfs.cpp","group":"local","local":true}

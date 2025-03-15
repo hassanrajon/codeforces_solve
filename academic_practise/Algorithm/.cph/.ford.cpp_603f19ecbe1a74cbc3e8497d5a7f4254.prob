@@ -1,0 +1,1 @@
+{"name":"Local: ford","url":"d:\\vs\\academic_practise\\Algorithm\\ford.cpp","tests":[{"id":1739947679768,"input":"5 5\nA\nA B 5\nB C 1\nB D 2\nC E 1\nE D -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs\\academic_practise\\Algorithm\\ford.cpp","group":"local","local":true}
